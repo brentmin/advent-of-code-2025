@@ -1,0 +1,1 @@
+This is my advent of code solutions repository. You can see the problem descriptions here: https://adventofcode.com/2025
